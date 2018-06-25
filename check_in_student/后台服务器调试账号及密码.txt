@@ -1,0 +1,23 @@
+调试阿里云后端代码请使用xftp5工具
+登陆ip地址: 120.78.144.66
+账号: root
+密码: Namingsystem0824
+php文件存放地址：home/www/htdocs   
+文件名:（注意是末尾不带下划线的）
+add_course.php
+edit_detail.php
+history.php
+import_course.php
+login.php
+register.php
+select_course.php
+sign_in.php
+verify.php
+
+连接数据库请使用navicat_for_mysql工具
+
+连接MySQL地址: 120.78.144.66
+端口: 3306   
+用户: root    
+连接MySQL密码: Namingsystem2018
+连接数据库名称: Namesystem
